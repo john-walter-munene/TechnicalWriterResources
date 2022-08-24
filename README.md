@@ -13,3 +13,6 @@ Please note we have a code of conduct. Follow it in all your interactions with t
 - Update the README.md with any community writing programs you want to add or update.
 - Make sure the list of programs is still in alphabetical order.
 - Create the pull request and explain your changes. We'll merge it in or reply as quickly as possible.
+
+# New job opportunity: Write with webiny
+https://github.com/webiny/write-with-webiny
